@@ -1,0 +1,10 @@
+C:\Users\Administrador\source\repos\Systema De Gestion De Menu\obj\Debug\Systema De Gestion De Menu.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\Systema De Gestion De Menu\obj\Debug\Systema_De_Gestion_De_Menu.Properties.Resources.resources
+C:\Users\Administrador\source\repos\Systema De Gestion De Menu\obj\Debug\Systema De Gestion De Menu.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\Systema De Gestion De Menu\obj\Debug\Systema De Gestion De Menu.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Systema De Gestion De Menu\obj\Debug\Systema_De_Gestion_De_Menu.Presentacion.Menu_items.resources
+C:\Users\Administrador\source\repos\Systema De Gestion De Menu\bin\Debug\Systema De Gestion De Menu.exe.config
+C:\Users\Administrador\source\repos\Systema De Gestion De Menu\bin\Debug\Systema De Gestion De Menu.exe
+C:\Users\Administrador\source\repos\Systema De Gestion De Menu\bin\Debug\Systema De Gestion De Menu.pdb
+C:\Users\Administrador\source\repos\Systema De Gestion De Menu\obj\Debug\Systema De Gestion De Menu.exe
+C:\Users\Administrador\source\repos\Systema De Gestion De Menu\obj\Debug\Systema De Gestion De Menu.pdb
